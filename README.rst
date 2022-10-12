@@ -159,5 +159,4 @@ Documentation is available at `docs <https://tronapi-for-python.readthedocs.io/e
 Donations
 =============
 
-TRON: TRWBqiqoFZysoAeyR1J35ibuyc8EvhUAoY
-
+TRON: TQuGButv2BCH8epEY7Z29ZDB14dUK12ncw
