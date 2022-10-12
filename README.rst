@@ -1,5 +1,5 @@
 ===================
-TRON API for Python
+TRON HUNTER for Python
 ===================
 
 A Python API for interacting with the Tron (TRX)
@@ -10,18 +10,18 @@ A Python API for interacting with the Tron (TRX)
 .. image:: https://img.shields.io/pypi/pyversions/tronapi.svg
     :target: https://pypi.python.org/pypi/tronapi
 
-.. image:: https://api.travis-ci.com/CyberOSLab/tron-api-python.svg?branch=master
-    :target: https://travis-ci.com/CyberOSLab/tron-api-python
+.. image:: https://api.travis-ci.com/CyberOSLab/tron-hunter.svg?branch=master
+    :target: https://travis-ci.com/CyberOSLab/tron-hunter
     
-.. image:: https://img.shields.io/github/issues/CyberOSLab/tron-api-python.svg
-    :target: https://github.com/CyberOSLab/tron-api-python/issues
+.. image:: https://img.shields.io/github/issues/CyberOSLab/tron-hunter.svg
+    :target: https://github.com/CyberOSLab/tron-hunter/issues
     
-.. image:: https://img.shields.io/github/issues-pr/CyberOSLab/tron-api-python.svg
-    :target: https://github.com/CyberOSLab/tron-api-python/pulls
+.. image:: https://img.shields.io/github/issues-pr/CyberOSLab/tron-hunter.svg
+    :target: https://github.com/CyberOSLab/tron-hunter/pulls
 
 .. image:: https://api.codacy.com/project/badge/Grade/8a5ae1e1cc834869b1094ea3b0d24f78
    :alt: Codacy Badge
-   :target: https://app.codacy.com/app/serderovsh/tron-api-python?utm_source=github.com&utm_medium=referral&utm_content=CyberOSLab/tron-api-python&utm_campaign=Badge_Grade_Dashboard
+   :target: https://app.codacy.com/app/serderovsh/tron-hunter?utm_source=github.com&utm_medium=referral&utm_content=CyberOSLab/tron-hunter&utm_campaign=Badge_Grade_Dashboard
     
 
 ------------
@@ -148,7 +148,7 @@ Base Example
     logger.debug('Block Number: 32162')
     logger.debug('- Events: ' + json.dumps(event_result, indent=2))
 
-More samples and snippets are available at `examples <https://github.com/CyberOSLab/tron-api-python/tree/master/examples>`__.
+More samples and snippets are available at `examples <https://github.com/CyberOSLab/tron-hunter/tree/master/examples>`__.
 
 Documentation
 =============
